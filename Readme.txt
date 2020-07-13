@@ -1,2 +1,1 @@
-A
-plicações PHP
+Aplicações PHP
